@@ -1,0 +1,28 @@
+body{
+background-color: #053f5e;
+text-align: center;
+color: #defcfc;
+}
+
+h1{
+  font-family: 'Pacifico', cursive;
+  font-size: 7rem;
+  margin-bottom:0px;
+  margin-top: 0px;
+}
+
+.d-img{
+  font-family: 'Pacifico', cursive;
+  font-size: 3rem;
+  display: inline-block;
+  padding: 30px;
+}
+
+img{
+  width: 70%;
+}
+
+.footer{
+  font-size: 1.5rem;
+  font-family: 'Dosis', sans-serif;
+}
